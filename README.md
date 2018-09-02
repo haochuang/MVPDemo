@@ -526,3 +526,5 @@ Fragment 也是一样，在这里就不实现了。当然，对于上面实现�
 时间有限，就先实现到这里，以后有时间再改造。最后，附上 Github 下载地址：
 
 [MVPDemo](https://github.com/JD-CP/MVPDemo)
+
+[掘金-从0到1解剖MVP的神秘之处，并自己动手实现MVP](https://juejin.im/post/5b75491ef265da283719d0e7)
